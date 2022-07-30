@@ -18,7 +18,7 @@ Analysis A:
 ![Analysis A](https://github.com/lallben/School_District_Analysis/blob/main/Resources/school_summary_A.png)<br>
 Analysis B:
 ![Analysis B](https://github.com/lallben/School_District_Analysis/blob/main/Resources/school_summary_B.png)<br>
-
+<i><b>Between the two Analysis, particularly after the replacement of math & reading scores for grade 9 in Thomas High School, while the Average Math & Reading scores for the school did not change drastically, the % of students in Thomas High School passing in math, reading as well as the overall passing percentages took a big downward hit.</i></b>
 ### Effect of Changes on performance of Thomas High School:
 Top 5 Schools per Analysis A:
 ![Analysis A](https://github.com/lallben/School_District_Analysis/blob/main/Resources/Top_5_Schools_A.png)<br>
@@ -50,3 +50,8 @@ Analysis A:<br>
 Analysis B:<br>                                                                                                        
 ![Analysis B](https://github.com/lallben/School_District_Analysis/blob/main/Resources/scores_school_type_B.png)<br>
 <i><b>The impact of the decrease in the % scores in Math, Reading and Overall Passing were more in the Charter schools than in the District schools.</i></b>
+## Summary of changes as a result of changes in scores recorded for Thomas High School:
+- At the District level the changes in the Average scores as well as the passing percentages were minimal and did not indicate a significant change, although there was a perceptible decrease in the scores and passing percentages.
+- At the School level, Between the two Analysis, while the Average Math & Reading scores for the school did not change drastically, the % of students in Thomas High School passing in math, reading as well as the overall passing percentages took a big downward hit.
+- The ranking of Thomas High School decreased significantly and it fell out of the Top 5 school category for the District.
+- Since Thomas High School was a charter school, the biggest impact of the replacement of the grade 9 scores was seen in the Charter Schools.
