@@ -8,3 +8,4 @@ We conducted an anlysis on the funding and the proficiency levels achieved by th
 As a consequence of this new development, the purpose of this analysis is to also present the changes on the overall results as well the results for Thoams High School between the Analysis that was conducted at these two stages.
 ## Results
 ### School District Summary:
+![Analysis A](https://github.com/lallben/Election_Analysis/blob/main/screenshot_text%20file_results_1.png)<br>
