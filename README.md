@@ -14,7 +14,8 @@ Analysis B:
 ![Analysis B](https://github.com/lallben/School_District_Analysis/blob/main/Resources/School_district_B.png)<br>
 The passing scores in the Math & Reading went down after the Thomas High School scores for Grade 9 were replaced with NaNs. Although the decrease was not very drastic on the over District results
 ### Schools Summary Results:
-Analysis A:
-![Analysis A](https://github.com/lallben/School_District_Analysis/blob/main/Resources/Top_5_Schools__A.png)<br>
-Analysis B:
-![Analysis A](https://github.com/lallben/School_District_Analysis/blob/main/Resources/Top_5_Schools__B.png)<br>
+Top 5 Schools per Analysis A:
+![Analysis A](https://github.com/lallben/School_District_Analysis/blob/main/Resources/Top_5_Schools_A.png)<br>
+Top 5 Schools per Analysis B:
+![Analysis B](https://github.com/lallben/School_District_Analysis/blob/main/Resources/Top_5_Schools_B.png)<br>
+As a direct result of the replacement of the scores at Thomas High School, it moved out of the Top 5 school ranking that it had prior to the adjustment. This is a significant change in the results we saw.
