@@ -36,5 +36,14 @@ Analysis B:<br>
 ![Analysis B](https://github.com/lallben/School_District_Analysis/blob/main/Resources/scores_by_spending_B.png)<br>
 The change we see is the spending range of $631-645 per student. <i><b>The % scores in Math, Reading and Overall Passing went down from 73, 84 & 63% to 67, 77 & 56% in the respective categories.</i></b>
 ### Scores by school size:
+Analysis A:<br>
+![Analysis A](https://github.com/lallben/School_District_Analysis/blob/main/Resources/scores_by_school_size_A.png)<br>
+Analysis B:<br>                                                                                                        
+![Analysis B](https://github.com/lallben/School_District_Analysis/blob/main/Resources/scores_by_school_size_B.png)<br>
+<i><b>Here we can see that the % scores in Math, Reading and Overall Passing went down in the schools within the 'Medium' school sizes. These are schools with a student poulation between 1000 - 2000 students.</i></b>
 ### Scores by school type:
-
+Analysis A:<br>
+![Analysis A](https://github.com/lallben/School_District_Analysis/blob/main/Resources/scores_school_type_A.png)<br>
+Analysis B:<br>                                                                                                        
+![Analysis B](https://github.com/lallben/School_District_Analysis/blob/main/Resources/scores_school_type_B.png)<br>
+<i><b>The impact of the decrease in the % scores in Math, Reading and Overall Passing were more in the Charter schools than in the District schools.</i></b>
