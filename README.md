@@ -7,9 +7,14 @@ We conducted an anlysis on the funding and the proficiency levels achieved by th
 ## Purpose of the Analysis
 As a consequence of this new development, the purpose of this analysis is to also present the changes on the overall results as well the results for Thoams High School between the Analysis that was conducted at these two stages.
 ## Results
-### School District Summary:
+### School District Summary Results:
 Analysis A:
 ![Analysis A](https://github.com/lallben/School_District_Analysis/blob/main/Resources/School_district_A.png)<br>
 Analysis B:
 ![Analysis B](https://github.com/lallben/School_District_Analysis/blob/main/Resources/School_district_B.png)<br>
 The passing scores in the Math & Reading went down after the Thomas High School scores for Grade 9 were replaced with NaNs. Although the decrease was not very drastic on the over District results
+### Schools Summary Results:
+Analysis A:
+![Analysis A](https://github.com/lallben/School_District_Analysis/blob/main/Resources/Top 5 Schools__A.png)<br>
+Analysis B:
+![Analysis A](https://github.com/lallben/School_District_Analysis/blob/main/Resources/Top 5 Schools__B.png)<br>
